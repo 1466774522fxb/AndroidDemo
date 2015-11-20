@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="common_toast_sdcarderror">存储卡不可用，请确认您的存储卡可以正常使用</string>
+    <string name="common_toast_sdcardspaceerror">存储空间不足</string>
+    <string name="common_toast_connectionfailed">请检查网络是否可用</string>
+    <string name="common_toast_connectionnodata">操作失败，请重试</string>
+    <string name="common_toast_jsonparseerror">JSON解析数据出错</string>
+    <string name="common_toast_error">操作失败</string>
+    <string name="common_toast_exitapp">再按一次退出程序</string>
+    <string name="common_toast_location_failed">定位失败</string>
+    <string name="common_toast_location_loading">正在定位...</string>
+    <string name="common_toast_location_complete">定位完成</string>
+</resources>
