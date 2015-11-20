@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">App</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world welcome!</string>
     <string name="action_settings">Settings</string>
     <string name="common_toast_sdcarderror">存储卡不可用，请确认您的存储卡可以正常使用</string>
     <string name="common_toast_sdcardspaceerror">存储空间不足</string>
